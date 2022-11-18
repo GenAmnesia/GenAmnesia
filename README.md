@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GenAmnesia
 - 👀 I’m interested in frontend dev, React, js, css.
 - 🌱 I’m currently learning new and amazing ways to make beautiful websites and web apps.
-- 💞️ I’m looking to collaborate on nothing. I'm on myself.
+- 💞️ I’m looking to collaborate on building amazing web products.
 - 📫 How to reach me: Facebook.
 
 <!---
