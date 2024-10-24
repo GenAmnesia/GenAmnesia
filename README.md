@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GenAmnesia
-- 👀 I’m a React front end developer.
+- ⚛️ I’m a React front end developer.
 - 🌱 I’m currently learning full-stack technologies using PERN and MERN stack.
 - 💞️ I’m looking to collaborate on building amazing web products.
 - 📫 How to reach me: Email, LinkedIn.
